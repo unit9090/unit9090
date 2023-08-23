@@ -16,15 +16,18 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!-- 헤더 -->
 <div align="center">
     <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&height=180&text=Hello!%20It's%20me!&animation=fadeIn&fontColor=212a3e&fontSize=70" />
 </div>
+<!-- 자기소개 -->
 <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 💎Introduction </h2>
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;">
         <li> 꾸준히 발전하는 개발자입니다⭐
     </div>
 </div>
+<!-- 기술 -->
 <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br>
     <div align="center">
@@ -80,6 +83,7 @@ Here are some ideas to get you started:
       <img src="https://img.shields.io/badge/Trello-0052CC?style=flat-square&logo=Trello&logoColor=white">
     </div>
 </div>
+<!-- 연락 수단 -->
 <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br>
     <div>
@@ -92,12 +96,15 @@ Here are some ideas to get you started:
         </a>
     </div>
 </div>
+<!-- 레벨 -->
 <div style="text-align: left;">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2>
-    <div align="center">
-        <img src="https://github-readme-stats.vercel.app/api/?username=unit9090&bg_color=180,394867,00000000&title_color=ffffff&text_color=ffffff" />
-        <img
-            src="https://github-readme-stats.vercel.app/api/top-langs/?username=unit9090&layout=compact&bg_color=180,394867,00000000&title_color=ffffff&text_color=ffffff" />
-    </div>
-    
+  <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2>
+	<div>
+		<img src="https://github-readme-stats.vercel.app/api?username=unit9090&theme=vue&show_icons=true&repo=github-readme-stats">
+		<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=unit9090&layout=compact">
+	</div>
+</div>
+<br />
+<div align="center">
+	<img src="http://mazassumnida.wtf/api/generate_badge?boj=cnldjqrldnjs)">
 </div>
