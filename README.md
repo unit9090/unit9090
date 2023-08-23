@@ -37,8 +37,8 @@ Here are some ideas to get you started:
       <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white">
       <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white">
       <br />
-      <!-- Programming Language & Library -->
-      <h6>✨Programming Language & Library✨</h6>
+      <!-- Language & Library -->
+      <h6>✨Language & Library✨</h6>
       <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white">
 			<br />
       <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white">
