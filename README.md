@@ -110,6 +110,6 @@ Here are some ideas to get you started:
 	</div>
   <br />
   <div align="center">
-	  <img src="http://mazassumnida.wtf/api/generate_badge?boj=cnldjqrldnjs">
+	  <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=cnldjqrldnjs">
   </div>
 </div>
