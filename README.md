@@ -105,7 +105,7 @@ Here are some ideas to get you started:
 <div style="text-align: left;">
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2>
 	<div>
-    <img src="https://github-readme-stats.vercel.app/api?username=unit9090&count_private=true&include_all_commits=true&theme=vue" />
+    <img src="https://github-readme-stats.vercel.app/api?username=unit9090&hide=stars,contribs&count_private=true&theme=vue&show_icons=true" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=unit9090&layout=donut&theme=vue" />
 	</div>
   <br />
